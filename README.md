@@ -53,18 +53,4 @@
  </p>
  
  
- ## Contributions
 
-* Spread the word
-* Open pull requests
-
-## Supporting GithubSquare
-If you like GithubSquare, you can give a star ⭐ on [GitHub](https://github.com/aakashsr/GithubSquare), or help spread GithubSquare to more people you know.
-
-
-## Thanks
-
-* GithubSquare is using [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api)
-
-## License
-MIT © [Aakash Srivastav](https://aakashdev.me)
